@@ -1,0 +1,16 @@
+# dependencies / build
+node_modules/
+dist/
+*.log
+
+# PRIVATE SOURCE MATERIAL — contains client names, addresses and employer title blocks.
+# Never commit or deploy. The site only uses anonymised output in public/media and src/data.
+Projectss/
+Mehul_Resume/
+private/
+
+.DS_Store
+Thumbs.db
+
+# editor / agent tooling
+.claude/

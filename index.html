@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mehul Saini — Interior Designer</title>
+    <meta name="description" content="Mehul Saini — interior designer specialising in luxury kitchens, wardrobes and residential interiors across Delhi NCR." />
+    <meta name="theme-color" content="#F4F1EA" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#11100E" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Mehul Saini — Interior Designer" />
+    <meta property="og:description" content="Luxury kitchens, wardrobes and residential interiors across Delhi NCR — from space plan and material curation to installation." />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script>
+      // Set theme before first paint (no flash). Saved choice wins, else system preference.
+      (function () {
+        var t
+        try { t = localStorage.getItem('theme') } catch (e) {}
+        if (t !== 'light' && t !== 'dark') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+        document.documentElement.dataset.theme = t
+        document.documentElement.classList.add('js')
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript><p style="padding:2rem;font-family:serif">Mehul Saini — Interior Designer. Email: mehulsaini36@gmail.com</p></noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

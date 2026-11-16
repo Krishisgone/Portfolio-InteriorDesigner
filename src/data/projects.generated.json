@@ -1,0 +1,1519 @@
+[
+  {
+    "slug": "skylit-kitchen",
+    "title": "The Skylit Kitchen",
+    "location": "Noida, Uttar Pradesh",
+    "year": 2024,
+    "category": "kitchen",
+    "status": "Built",
+    "role": "Design, 3D visualisation & production drawings",
+    "summary": "A family kitchen set beneath a coffered skylight. A waterfall island in gold-veined stone anchors the room, framed by stone-finish tall units and walnut-lined fluted-glass display cabinets.",
+    "specs": [
+      {
+        "label": "Footprint",
+        "value": "6.0 × 4.1 m + 1.7 m utility"
+      },
+      {
+        "label": "Shutters",
+        "value": "Stone-finish slimstone, Mrya Sand"
+      },
+      {
+        "label": "Glass",
+        "value": "Brown fluted tinted, Neon 22 profile"
+      },
+      {
+        "label": "Profiles & handles",
+        "value": "J-profile, Driftwood finish"
+      },
+      {
+        "label": "Counter & splash",
+        "value": "Gold-veined stone (New Machia)"
+      }
+    ],
+    "cover": "built-island",
+    "compare": {
+      "before": "render-corner",
+      "after": "built-island"
+    },
+    "images": [
+      {
+        "id": "built-island",
+        "tag": "built",
+        "alt": "Built kitchen with waterfall marble island under a coffered skylight",
+        "src": "media/skylit-kitchen/01-1200.webp",
+        "srcset": "media/skylit-kitchen/01-640.webp 640w, media/skylit-kitchen/01-1200.webp 1200w",
+        "w": 1200,
+        "h": 1600,
+        "placeholder": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAQBQCdASoSABgAPu1ur1IppiQiqAgBMB2JZwDKAA5WLWcKyY6mvqWf+qEgSLN1bRXQAPlbcOq0VFH5wCHIOJvwjqBCthUt+nI6wG5vwXqvWub21VKYhKIleU2CaE/o32fcFQ3dw0ok/TCVQhsFxTKOUr7t0TK35IoC9VWVwYwYFCparsLkGRXvVnJZEbi5f3h4AnBVtt48k9/0GM/Bh7/GgAAAAA=="
+      },
+      {
+        "id": "built-detail",
+        "tag": "built",
+        "alt": "Close view of the gold-veined waterfall island and marble-clad walls",
+        "src": "media/skylit-kitchen/02-1200.webp",
+        "srcset": "media/skylit-kitchen/02-640.webp 640w, media/skylit-kitchen/02-1200.webp 1200w",
+        "w": 1200,
+        "h": 1600,
+        "placeholder": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAwBQCdASoSABgAPu1ur1KppiQiqAgBMB2JZQC/7AyaF1pa21cPalgeNc8vHGxFwPAnwADN8sWnDFFQ7WHmkVGXEVZ+R3QbJpKoG5EqcSFTeQirLLgW045K+PiIeRK53YuQxZEypSkovkNZdcfiYa38J2osDLCoiCX6uRcsVH7vpbNjQPs4NxOjzg/srlc0/lBkCq+ti/M+nEjlEAQAAA=="
+      },
+      {
+        "id": "render-corner",
+        "tag": "render",
+        "alt": "Render of the island and L-shaped run beneath the skylight",
+        "src": "media/skylit-kitchen/03-1376.webp",
+        "srcset": "media/skylit-kitchen/03-640.webp 640w, media/skylit-kitchen/03-1280.webp 1280w, media/skylit-kitchen/03-1376.webp 1376w",
+        "w": 1376,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABQBACdASoYAA8APu1iqU2ppaOiMAgBMB2JZQCdMoACs5laozAVeBx0pWHQAPzf6mtAU+Wqb+l551a7GkyBBk8hp826bPPJ5Gu5BKEAp8AJiklHjt/MFZ7iGYh+nK6MG0HjReCiAv6q4ddUIT4PSlOQgeUqE4qp3sPL51MMe+mCfVcBNC40Deb45SFKqXCgEBkkOOHUcfn4ZmPgAAA="
+      },
+      {
+        "id": "render-island",
+        "tag": "render",
+        "alt": "Render of the island facing built-in ovens and tall units",
+        "src": "media/skylit-kitchen/04-1376.webp",
+        "srcset": "media/skylit-kitchen/04-640.webp 640w, media/skylit-kitchen/04-1280.webp 1280w, media/skylit-kitchen/04-1376.webp 1376w",
+        "w": 1376,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACQBACdASoYAA8APu1iqU2ppaQiMAgBMB2JYwCdMoCGACS53qiy0rFfNkw1gsgA/NCyUvxM1g7ZzTM+CbnBxGzACKMqaDRQynQvBV4a6mJEVNUA3fyhnzdGMpy1wDOSWoEV1gvFV3y9RtOGL48jL2hI3iyaQLsLZsoYlznztXQyfZMzKdJ5G1ymuOT9lcav4X3jic65D1gVwAAA"
+      },
+      {
+        "id": "render-window",
+        "tag": "render",
+        "alt": "Render of the cooking wall between two garden windows",
+        "src": "media/skylit-kitchen/05-1376.webp",
+        "srcset": "media/skylit-kitchen/05-640.webp 640w, media/skylit-kitchen/05-1280.webp 1280w, media/skylit-kitchen/05-1376.webp 1376w",
+        "w": 1376,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADQAwCdASoYAA8APu1iqU2ppaOiMAgBMB2JYwCdABscL380U+1NrgAA/ma9nnV1mhFG4NB2TsvO8/VqMEXwcpMaKvuCquTE9FxXyUb1dAu2UHxVvUgV/qVQYzS+qsCUswT+uYVO0vPSQ6cikfujaSVmm3+GfHiNoOuPxxg3aSOvw/2W/h+VlL7AAAA="
+      },
+      {
+        "id": "render-tall",
+        "tag": "render",
+        "alt": "Render of tall units with walnut pantry columns",
+        "src": "media/skylit-kitchen/06-1376.webp",
+        "srcset": "media/skylit-kitchen/06-640.webp 640w, media/skylit-kitchen/06-1280.webp 1280w, media/skylit-kitchen/06-1376.webp 1376w",
+        "w": 1376,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAACQBACdASoYAA8APu1iqU2ppaOiMAgBMB2JZQCdMoADf1iX9GArs4g9wcCVehwA4BjGyZG6YsDQgsZUUGC6uWn380VJ9o1DQqMqQv9BiJTrLBawm1PRdkHE2fhF4qqHyZR6bN4VM6a7OhGXVzB6nnf+HlcZW5X5ZQOPDjtMeDIbhqnPMgpAcgsOzzYIvTP/NCHLaLehSIL0sAAA"
+      },
+      {
+        "id": "plan",
+        "tag": "drawing",
+        "alt": "Rendered kitchen layout plan with dimensions and work zones",
+        "src": "media/skylit-kitchen/07-1920.webp",
+        "srcset": "media/skylit-kitchen/07-640.webp 640w, media/skylit-kitchen/07-1280.webp 1280w, media/skylit-kitchen/07-1920.webp 1920w",
+        "w": 2400,
+        "h": 1384,
+        "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JZQC7ACHwz5QFp2+p8b6pYAD+1iXjNwcmLi6atidnZ+NGKVYxaUshZJinsmxRfjWUr2c6LYYyOym/sBEfj+ri/cO/uPoDoeTedSze1+mHOxOHY7+YZfQKsUMBynFySlOg0GVmfy3lRrd6WA8CUjtgRxsgIy9rAc/oAA=="
+      },
+      {
+        "id": "elevation",
+        "tag": "drawing",
+        "alt": "Coloured elevation of the sink wall with fluted-glass wall cabinets",
+        "src": "media/skylit-kitchen/08-1920.webp",
+        "srcset": "media/skylit-kitchen/08-640.webp 640w, media/skylit-kitchen/08-1280.webp 1280w, media/skylit-kitchen/08-1920.webp 1920w",
+        "w": 2220,
+        "h": 1604,
+        "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQBACdASoYABEAPu1eqE6ppKOiMBgMATAdiWMAsOwQ54g3j3bITCVujy1wFAAA/vBAlTmE8v50mB3F02GKNqtMuFLItrxzcDYyE79il+g2m4BGH5qB9TNhXgXmYlUdi9kcVe5VRbT0jWVqWUROMSkegLQWhK0ZVQAAAA=="
+      },
+      {
+        "id": "material-glass",
+        "tag": "detail",
+        "alt": "Brown fluted tinted glass sample",
+        "src": "media/skylit-kitchen/09-744.webp",
+        "srcset": "media/skylit-kitchen/09-640.webp 640w, media/skylit-kitchen/09-744.webp 744w",
+        "w": 744,
+        "h": 992,
+        "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQBACdASoSABgAPtVWok2oJKMiN+gBABqJZwDDrDJC/evsi6R5S8/Ly4s328AA/tcrrZdRDrzJzVSmVfrXfC45qeLddEC2UQolXdlbAwPd8qDprRgAAA=="
+      },
+      {
+        "id": "process-sheet",
+        "tag": "drawing",
+        "alt": "Drawing set: kitchen layout plan above the sink-wall elevation",
+        "src": "media/skylit-kitchen/10-1200.webp",
+        "srcset": "media/skylit-kitchen/10-640.webp 640w, media/skylit-kitchen/10-1200.webp 1200w",
+        "w": 1200,
+        "h": 1500,
+        "placeholder": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADQBACdASoTABgAPu1qq1EppaOiqAqpMB2JZwC/OBGD9J1CVayHJn3Oc9CjiM6AAAD+5/sOuNDE4slB22Te6gLRppV3vuyYu9hVJNjF/jtz+GVOxhczuTjvP/qsAEunxNgjf3W3D8Eq/Wv6VLnGWWPhQ14x1kz64YVtPBGu4H3QQPguYhLnX+ZLzRxe8V59mJ6SMDUcOJB68+SxgAA="
+      },
+      {
+        "id": "process-board",
+        "tag": "detail",
+        "alt": "Material board: gold-veined stone, brown fluted glass, stone-finish shutters and the lit backsplash",
+        "src": "media/skylit-kitchen/11-1200.webp",
+        "srcset": "media/skylit-kitchen/11-640.webp 640w, media/skylit-kitchen/11-1200.webp 1200w",
+        "w": 1200,
+        "h": 1500,
+        "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADQBACdASoTABgAPu1kqE2ppaOiMAgBMB2JZwDE2B4QPYH0yMH7E6u60MdgxP0AAAD+sg2J2TCVK20KcQT3jr2ECXIIatru/ZfbQVvh6SljtUGX9Q9we53JA4G649PomX8sOU4+AFah6LOGeNLMgSdzRlFmUZnA1Yv5LSjTLP9SQWIW53F4W58Fb49C511+mGIPIAhdPmmT2gAA"
+      }
+    ]
+  },
+  {
+    "slug": "exhibition-suite",
+    "title": "The Exhibition Suite",
+    "location": "Design POV, Mumbai",
+    "year": 2026,
+    "category": "kitchen",
+    "status": "Built",
+    "role": "Kitchen & wardrobe design, visualisation & elevations",
+    "summary": "A display suite where a kitchen runs straight into a walk-in wardrobe: classical framed-panel cabinetry, bronze-edged glass display, warm cove lighting and a monolithic island in heavily veined gold stone.",
+    "specs": [
+      {
+        "label": "Scope",
+        "value": "Kitchen, island & walk-in wardrobe"
+      },
+      {
+        "label": "Island",
+        "value": "Waterfall stone, bold gold veining"
+      },
+      {
+        "label": "Cabinetry",
+        "value": "Framed panels, bronze-framed glass"
+      },
+      {
+        "label": "Lighting",
+        "value": "Wall sconces, cove & plinth lines"
+      }
+    ],
+    "cover": "render-front",
+    "images": [
+      {
+        "id": "render-front",
+        "tag": "render",
+        "alt": "Kitchen with framed glass wall cabinets behind a veined stone island",
+        "src": "media/exhibition-suite/01-1408.webp",
+        "srcset": "media/exhibition-suite/01-640.webp 640w, media/exhibition-suite/01-1280.webp 1280w, media/exhibition-suite/01-1408.webp 1408w",
+        "w": 1408,
+        "h": 827,
+        "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoYAA4APu1iqU2ppaQiMAgBMB2JQBOmUABfZrLlFjqt125tcgAA9iZEnQSNcbogyiezKNkEP3B9KeTKGP5BAUlyK6DwNKDfnE4bUfKBVvXdXEHmEfL9wqBtdm0BK3b2j5gDZ1m7Bv9g4sMDbqh2uCIuaxR3kNEAup5TFnmNtmFwAA=="
+      },
+      {
+        "id": "render-angle",
+        "tag": "render",
+        "alt": "Angled view from the island toward lit glass wardrobes",
+        "src": "media/exhibition-suite/02-1408.webp",
+        "srcset": "media/exhibition-suite/02-640.webp 640w, media/exhibition-suite/02-1280.webp 1280w, media/exhibition-suite/02-1408.webp 1408w",
+        "w": 1408,
+        "h": 827,
+        "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACQBACdASoYAA4APu1kq04ppaQiMAgBMB2JQBOmUABqXRr7AcPvqxL8vEsWzAAA/eJv+FLv1v2rkAExF67OWxFBPwZMIMXQdU8EZet7UuvH2ya6B3RQYtk+7Jqs6KR0XU72+FOUB2o5DXQJlZmq6etrpCPbwhBGptdYA1lKuV1eAAAA"
+      },
+      {
+        "id": "render-side",
+        "tag": "render",
+        "alt": "Waterfall island beside the walk-in wardrobe",
+        "src": "media/exhibition-suite/03-1408.webp",
+        "srcset": "media/exhibition-suite/03-640.webp 640w, media/exhibition-suite/03-1280.webp 1280w, media/exhibition-suite/03-1408.webp 1408w",
+        "w": 1408,
+        "h": 827,
+        "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoYAA4APu1oqk6ppiQiMAgBMB2JYwC7ABuiKdFR+Nt1juDsAP7tYPQl6r+8Pv8DZofgDmakqI04gfbAgpyBUw6Cz1fTQnKI0PTi8GnEzGphIRafuQXYiE+lvVFB9xSoBvKVcAAA"
+      },
+      {
+        "id": "render-run",
+        "tag": "render",
+        "alt": "Panelled base run with sconces and bronze-framed uppers",
+        "src": "media/exhibition-suite/04-1408.webp",
+        "srcset": "media/exhibition-suite/04-640.webp 640w, media/exhibition-suite/04-1280.webp 1280w, media/exhibition-suite/04-1408.webp 1408w",
+        "w": 1408,
+        "h": 827,
+        "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwAwCdASoYAA4APu1iqk2ppaQiMAgBMB2JQBOmUABe/S9x0hzKI//AAPYmVtQ6l8LePJACTaUgUQjwsqD6mCzkaLzb/9rIhbJiTodAJUbdWjZzfC18kI4svayGdEOAyJ6yZw0ALacWHiJgJCDIFepAAXwHKYqnDDFYUAAA"
+      },
+      {
+        "id": "built-wardrobe",
+        "tag": "built",
+        "alt": "Built suite: bronze-framed glass wardrobes beside the veined stone island",
+        "src": "media/exhibition-suite/05-720.webp",
+        "srcset": "media/exhibition-suite/05-640.webp 640w, media/exhibition-suite/05-720.webp 720w",
+        "w": 720,
+        "h": 778,
+        "placeholder": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAACQBACdASoWABgAPu1sq1EppaOiqAqpMB2JYwC7AA8Jmtp411O7tS7E905Ybt4A+T0gxq4F3tHjTcH2PCDmxGLLmLMyEkAIv1UjT4EYyoCPufFvDgpKd0jTMNhFwx35NfrVDAQVaViYr6iZkFjFMGhcciOoMdGXW70FhHhdqqzW+QobVV1KXH7Qvq/Y5boUIj4+tWxPcxe/fhWzv3t485r7YJSvzqKZANoMg1igvAvbatTxRt8IedRtLgAAAA=="
+      },
+      {
+        "id": "built-glass",
+        "tag": "built",
+        "alt": "Lit glass-front wardrobe with stone-look side panels, on site",
+        "src": "media/exhibition-suite/06-720.webp",
+        "srcset": "media/exhibition-suite/06-640.webp 640w, media/exhibition-suite/06-720.webp 720w",
+        "w": 720,
+        "h": 855,
+        "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADwBACdASoUABgAPu1qrVCppaQiqAqpMB2JZQAAKUJRpPHBbRIZeRTZuPzctYJpsAAAyzOe2F9OuT/5E930+4JDe+uC/KbyJ1c9dPRsMz+zPWDeFHXA99oUHuJvTlQlV9TRHd/abiQsM3z0Oip+M8Z2SeqbePjOgTU7I3SVjOkVvsXJ626gLnBR9lS7K380iNX+D73CEvAQmvB5xpavbDAAAAA="
+      },
+      {
+        "id": "plan-a",
+        "tag": "drawing",
+        "alt": "Rendered plan of the suite with island",
+        "src": "media/exhibition-suite/07-1920.webp",
+        "srcset": "media/exhibition-suite/07-640.webp 640w, media/exhibition-suite/07-1280.webp 1280w, media/exhibition-suite/07-1920.webp 1920w",
+        "w": 3370,
+        "h": 2014,
+        "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoYAA4APu1krU6ppaSiMAgBMB2JZwC06CHfxBvTXdOOEtknQAD+4dBfNh6OPaD7pOd+cFxVgz3aC9gDLxdOOcb+4U8NBOuAiDwe3qK0Aw7DMQ2lXLWexOPGO06LAROtfAA="
+      },
+      {
+        "id": "plan-b",
+        "tag": "drawing",
+        "alt": "Rendered plan with stone island layout",
+        "src": "media/exhibition-suite/08-1920.webp",
+        "srcset": "media/exhibition-suite/08-640.webp 640w, media/exhibition-suite/08-1280.webp 1280w, media/exhibition-suite/08-1920.webp 1920w",
+        "w": 3388,
+        "h": 1987,
+        "placeholder": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAwCdASoYAA4APu1mqk4ppaOiMAgBMB2JZwClrCHe2JH3tehnAAD+4cHFXvkLA8uVSPFfIxeNczVncnRdDTAUnCQezf50X3YQcD/y2l0ORQNWh7b1F41HFRb/9SE7okAAAA=="
+      },
+      {
+        "id": "elev-kitchen",
+        "tag": "drawing",
+        "alt": "Coloured elevation of the kitchen wall",
+        "src": "media/exhibition-suite/09-1920.webp",
+        "srcset": "media/exhibition-suite/09-640.webp 640w, media/exhibition-suite/09-1280.webp 1280w, media/exhibition-suite/09-1920.webp 1920w",
+        "w": 3440,
+        "h": 1923,
+        "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoYAA0APu1oqk6ppiQiMAgBMB2JZwAASoun0/tttGrIlhAQAAD+631I76X2Jmon6uR5zRAb74pwKdWZJBbM9yL67FbtZXYdTBTZMdRvfa0kNiTn1EMdf+8hRE5B4ftAcNHUPXjjBbaNWkzUwzRwAA=="
+      },
+      {
+        "id": "elev-wardrobe",
+        "tag": "drawing",
+        "alt": "Coloured elevation of the open wardrobe",
+        "src": "media/exhibition-suite/10-1920.webp",
+        "srcset": "media/exhibition-suite/10-640.webp 640w, media/exhibition-suite/10-1280.webp 1280w, media/exhibition-suite/10-1920.webp 1920w",
+        "w": 3157,
+        "h": 2002,
+        "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYAA8APu1iqk2ppaQiMAgBMB2JQBOgZYA2gPFBnNjvabl149AA/ut9FmsmpPpPo2CCvg9pVNvhmeR515+mDkIb0q3tptzmDMWNqAbbvwGg9LVbYO1kkvwA"
+      },
+      {
+        "id": "elev-glass",
+        "tag": "drawing",
+        "alt": "Coloured elevation of the glass-front wardrobe",
+        "src": "media/exhibition-suite/11-1920.webp",
+        "srcset": "media/exhibition-suite/11-640.webp 640w, media/exhibition-suite/11-1280.webp 1280w, media/exhibition-suite/11-1920.webp 1920w",
+        "w": 3099,
+        "h": 2014,
+        "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoYABAAPu1iqk4ppaQiMAgBMB2JYwAAUqvPgFVQu51SiAAA/uuA5yMQ0/yL5CEFy2mBSP5RgSFaCoqjUh8t6uvwNH9HZj4rbd1RkN9fS3yprJgMQeEB84gA"
+      },
+      {
+        "id": "material-stone",
+        "tag": "detail",
+        "alt": "Book-matched gold-veined stone slab",
+        "src": "media/exhibition-suite/12-1920.webp",
+        "srcset": "media/exhibition-suite/12-640.webp 640w, media/exhibition-suite/12-1280.webp 1280w, media/exhibition-suite/12-1920.webp 1920w",
+        "w": 2546,
+        "h": 1085,
+        "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoYAAoAPu1kqU2ppaQiMAgBMB2JZQCw7CKUg5bTFVwKp+GAAP7rMh3UqvQNboOGyAg0Sh5hdEvZKj0M9+SDhvkkWmRA+1NTr+ry3i4RQ4/grmgp9K6gAA=="
+      }
+    ]
+  },
+  {
+    "slug": "onyx-kitchen",
+    "title": "The Onyx Kitchen",
+    "location": "Gurugram, Haryana",
+    "year": 2025,
+    "category": "kitchen",
+    "status": "Built",
+    "role": "Space planning, specification & execution",
+    "summary": "A large zoned kitchen — washing, cooking, baking and cooling stations around a central island — wrapped in onyx-pattern stone shutters and backsplash, with lit fluted-glass cabinetry and light-bronze profiles.",
+    "specs": [
+      {
+        "label": "Footprint",
+        "value": "7.1 × 4.3 m"
+      },
+      {
+        "label": "Shutters",
+        "value": "6 mm stone, Onyx Gold"
+      },
+      {
+        "label": "Glass",
+        "value": "Clear fluted, Neon 22 profile"
+      },
+      {
+        "label": "Profiles & skirting",
+        "value": "Light bronze"
+      },
+      {
+        "label": "Lighting",
+        "value": "In-cabinet, dado & counter lines"
+      }
+    ],
+    "cover": "built-wall",
+    "images": [
+      {
+        "id": "built-wall",
+        "tag": "built",
+        "alt": "Onyx-pattern wall run with fluted-glass upper cabinets and lit backsplash",
+        "src": "media/onyx-kitchen/01-1280.webp",
+        "srcset": "media/onyx-kitchen/01-640.webp 640w, media/onyx-kitchen/01-1280.webp 1280w",
+        "w": 1280,
+        "h": 960,
+        "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACwBACdASoYABIAPu1or1AppaSiqAqpMB2JZwAAKXk7FMHHD9535tIbj9lniY8AAP4jUDT2jgGgRNutNVFeei8HU6T1fiikNKb9i9415LNjwBA5ypOL1cXuW2o0nuyma5AQhpw9b//l6jfma6uxWjWZS9ciThp5Si+O8G66+rTkBmb9jadPvMOhBiy4q4GO+mgAAAAA"
+      },
+      {
+        "id": "built-glass",
+        "tag": "built",
+        "alt": "Open glass cabinet with lit glass shelves above an onyx counter",
+        "src": "media/onyx-kitchen/02-960.webp",
+        "srcset": "media/onyx-kitchen/02-640.webp 640w, media/onyx-kitchen/02-960.webp 960w",
+        "w": 960,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwBQCdASoSABgAPu1qq1EppaOiqAqpMB2JZwDDNBGOSn95Uv3UZt1YF8bXTPUqZV7HAAD79R6VpO0wqaKD7ML9jahqQM21UxUFNiYp/qqv7HEHfsEff99eo6kBAz58xLWtTARG3vrJzkYwj+etE5VhikymAuydxNZM5/LKOFmA+7n2WMsSocpIIAA="
+      },
+      {
+        "id": "built-run",
+        "tag": "built",
+        "alt": "Onyx-clad base run with recessed handle lines",
+        "src": "media/onyx-kitchen/03-1280.webp",
+        "srcset": "media/onyx-kitchen/03-640.webp 640w, media/onyx-kitchen/03-1280.webp 1280w",
+        "w": 1280,
+        "h": 960,
+        "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABQBQCdASoYABIAPu1krU+ppSQiMBgIATAdiWMAuwAQK/Hjq9atX7VK9jXZroZYof2ag9AAzPvLgTyu+zcccJTq05kxXt4cJAq5aNmz0dYWlB9pep1pxpjk8ZQfNlePNJQ7BTZFRPPzlfSK5BHPejQVQFi0/wa+909d0PI0XxiO23BydVatbGp/skEHAAAA"
+      },
+      {
+        "id": "built-drawer",
+        "tag": "built",
+        "alt": "Corner drawer with internal cutlery organiser",
+        "src": "media/onyx-kitchen/04-1280.webp",
+        "srcset": "media/onyx-kitchen/04-640.webp 640w, media/onyx-kitchen/04-1280.webp 1280w",
+        "w": 1280,
+        "h": 960,
+        "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAABQBQCdASoYABIAPu1mqk+ppaOiKA1RMB2JZwC7ABFAWMRrh6R7Dvf2TF/QtWprBC1S6AAA/sOaurnY7Z829x5IDIW1jNfM9MYSbF2110bB8fF2k0+sFvpbC9MWWRuwHA0IC7oUEbqI9y16s1IZFOu+k140BG9JiGoKeG/F74hPDzjPOYDCmeuTtXoIbT6VwAA="
+      },
+      {
+        "id": "built-hob",
+        "tag": "built",
+        "alt": "Cooking wall with onyx backsplash and fluted-glass uppers",
+        "src": "media/onyx-kitchen/05-1280.webp",
+        "srcset": "media/onyx-kitchen/05-640.webp 640w, media/onyx-kitchen/05-1280.webp 1280w",
+        "w": 1280,
+        "h": 960,
+        "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBQCdASoYABIAPu1krE+ppSQiMBgIATAdiWUAwzQQnQWSTMYrMjI5a3rfDsOdslYAAP7QnMpFnEb42OivnLYVB6IDaUPF2PkWVlyajCBwpTU6uiWcRW1IhetcmCD67R3MF/V08U3al1autwlZbD4ATylreghIPTmS72N0gwDPTYSkpOnFvAgBPIHKmAAA"
+      },
+      {
+        "id": "plan",
+        "tag": "drawing",
+        "alt": "Kitchen plan showing washing, cooking, baking and cooling zones",
+        "src": "media/onyx-kitchen/06-1920.webp",
+        "srcset": "media/onyx-kitchen/06-640.webp 640w, media/onyx-kitchen/06-1280.webp 1280w, media/onyx-kitchen/06-1920.webp 1920w",
+        "w": 2401,
+        "h": 1723,
+        "placeholder": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAwCdASoYABEAPu1or1AppaSiqAqpMB2JaQAAOob87sEAAP7wkbV//GFv3gDvxCfSYGBF/78sEYAA"
+      }
+    ]
+  },
+  {
+    "slug": "walnut-stone-kitchen",
+    "title": "The Walnut & Stone Kitchen",
+    "location": "West Delhi",
+    "year": 2026,
+    "category": "kitchen",
+    "status": "Visualised",
+    "role": "Kitchen design & 3D visualisation",
+    "summary": "A light, linear kitchen that pairs walnut-veneer upper cabinets with stone-grey base units. Fluted-glass wall units, a lit open pantry and a slim black handle line run the full length, with tall appliances gathered into one quiet wall.",
+    "specs": [
+      {
+        "label": "Uppers",
+        "value": "Walnut veneer, fluted-glass wall units"
+      },
+      {
+        "label": "Base",
+        "value": "Stone-grey, black handle line"
+      },
+      {
+        "label": "Feature",
+        "value": "Lit open pantry shelving"
+      },
+      {
+        "label": "Counter",
+        "value": "White stone, full-height splash"
+      }
+    ],
+    "cover": "render-wide",
+    "images": [
+      {
+        "id": "render-wide",
+        "tag": "render",
+        "alt": "Walnut uppers over grey base units with a lit pantry and a peninsula",
+        "src": "media/walnut-stone-kitchen/01-1600.webp",
+        "srcset": "media/walnut-stone-kitchen/01-640.webp 640w, media/walnut-stone-kitchen/01-1280.webp 1280w, media/walnut-stone-kitchen/01-1600.webp 1600w",
+        "w": 1600,
+        "h": 898,
+        "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADwAwCdASoYAA0APu1iqU2ppaOiMAgBMB2JQBOgA9I0PPYyvwuCwKKAAPlns/kt3g2O007KB3GBZGV/caA3UFN81lJFY57JD3ynjOQsRr04HgND9CRaBf4QHdiCkmWp0Bo16hw4QU8MEVjdJdJAx/92a7lBlDPWTiHmzpxycFXXtdHp/dPjwatcAAA="
+      },
+      {
+        "id": "render-galley",
+        "tag": "render",
+        "alt": "Galley run with fluted-glass uppers leading to a walnut door",
+        "src": "media/walnut-stone-kitchen/02-1600.webp",
+        "srcset": "media/walnut-stone-kitchen/02-640.webp 640w, media/walnut-stone-kitchen/02-1280.webp 1280w, media/walnut-stone-kitchen/02-1600.webp 1600w",
+        "w": 1600,
+        "h": 1200,
+        "placeholder": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABQBQCdASoYABIAPu1ur1IppiQiqAgBMB2JZQDGQA/PqJ0i2mvLB0NDkO6W1izz1YBp4GAA+xC1f4foGPDXjjjj0Ib+653EIC5rS/E2Mwvr+PECg5yREuTnlJsNV7eJP2ljPNfzUjRvXF9VK5PzRlUJBgsL2Sj9Wop24HUqPkSF67DUtf1hxN/JoZBJCQgpr/Tw7f3eKnbfAbFM/kt+stx8RuAAxxGSG5Ll1KqccLRPw2IA"
+      },
+      {
+        "id": "render-pantry",
+        "tag": "render",
+        "alt": "Lit open pantry beside walnut cabinets and a utensil rail",
+        "src": "media/walnut-stone-kitchen/03-1600.webp",
+        "srcset": "media/walnut-stone-kitchen/03-640.webp 640w, media/walnut-stone-kitchen/03-1280.webp 1280w, media/walnut-stone-kitchen/03-1600.webp 1600w",
+        "w": 1600,
+        "h": 1200,
+        "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwBACdASoYABIAPuFaqE2opSQiMAwBEBwJYwC3uCHc5jd5bzuArbxBcdGnh13sPgAA/n6TQc4Bi58ERjn6ds48pqjcsmOcQhEgygz5A0uZQyOq/HBLRYqqNvqKvwxzOLZm+WUD4vEQuuVnwlZpwPtn3WI3q8wQrjNrlkjc7mX/c8lPFjggAAAA"
+      },
+      {
+        "id": "render-tall",
+        "tag": "render",
+        "alt": "Tall appliance wall with built-in ovens beside the sink run",
+        "src": "media/walnut-stone-kitchen/04-1600.webp",
+        "srcset": "media/walnut-stone-kitchen/04-640.webp 640w, media/walnut-stone-kitchen/04-1280.webp 1280w, media/walnut-stone-kitchen/04-1600.webp 1600w",
+        "w": 1600,
+        "h": 898,
+        "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQAwCdASoYAA0APu1mq04ppaQiMAgBMB2JYwCdABh6g7sWSNOEg+AA/d7ZzJukoGpDEFE33pCvkXvGTGsAu2nK4Bo3ehknLN1l+aqbqpZw1PMu58Ngi59eB/zPa7gn3RdMBzkANB3ZzD4zLXumMmheF3gAFa80oVlx35WQYbvAAA=="
+      },
+      {
+        "id": "render-run",
+        "tag": "render",
+        "alt": "Long counter run with fluted-glass uppers and under-cabinet light",
+        "src": "media/walnut-stone-kitchen/05-1600.webp",
+        "srcset": "media/walnut-stone-kitchen/05-640.webp 640w, media/walnut-stone-kitchen/05-1280.webp 1280w, media/walnut-stone-kitchen/05-1600.webp 1600w",
+        "w": 1600,
+        "h": 1200,
+        "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABwBQCdASoYABIAPu1ur1KppiQiqAgBMB2JZQCzgA/RU0OYiqLUZuMXueHGFl/zeFoGVq9AAPIObuUzwxZH1NyeL2JTnb2iLLc6frXZBW3izSPkIrIAuI/nnL1AxSK22TvYDceetmBVC3N4u/udusTNN6hzGuDrAP6JuqdXZ3+RGWeqpO7Zjs8RGJ1bI1Y8tR1B+1o+QlB19jLcvQU2Ar7tLyhv8UKCyosmKcJrY1t7KC3AAAA="
+      },
+      {
+        "id": "render-window",
+        "tag": "render",
+        "alt": "Sink beneath the window with walnut tall units",
+        "src": "media/walnut-stone-kitchen/06-1600.webp",
+        "srcset": "media/walnut-stone-kitchen/06-640.webp 640w, media/walnut-stone-kitchen/06-1280.webp 1280w, media/walnut-stone-kitchen/06-1600.webp 1600w",
+        "w": 1600,
+        "h": 1200,
+        "placeholder": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAwBQCdASoYABIAPu1qr1CppaQiqAqpMB2JZQCtaAovFtJGN32sgVUTzw/ragDkdMzXQAD98AX/bUty+ZuB8lRjSe1m3iMrHjqbdvWgn9rs28zrzYn34Sbet+eivOIoCUNU+zhtyBvsbUl2gh7H8sasQmApU+RSBded0AblMs7UsqorxYo/sGpAEzZ4mvXG/SWL3SU+9zb5tRAhwfeY6JOBLARwKGviReJsAAAA"
+      },
+      {
+        "id": "render-fridge",
+        "tag": "render",
+        "alt": "View past the refrigerator to the cooking peninsula",
+        "src": "media/walnut-stone-kitchen/07-1600.webp",
+        "srcset": "media/walnut-stone-kitchen/07-640.webp 640w, media/walnut-stone-kitchen/07-1280.webp 1280w, media/walnut-stone-kitchen/07-1600.webp 1600w",
+        "w": 1600,
+        "h": 1200,
+        "placeholder": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABQBQCdASoYABIAPu1iqE2ppaOiMBgMATAdiWUAACkEVnpbGqJ1rD2ghhQGUzn+TQMaK4AA/oF0CTQG822GrfRNe8dcnKiztmkFzyA3azPbXbD34EXFh8fXL/O3a2YTyzdPZhNwzeONn3WZjPwMyKqrbBOxjLqiUapcUBKZs2WErvtTH1p7FHi8+GcScyGgxTG6w6YUwwD5CLu80mGDxBO7Uw9NLG4u8AA="
+      }
+    ]
+  },
+  {
+    "slug": "marble-kitchen",
+    "title": "The Marble Kitchen",
+    "location": "West Delhi",
+    "year": 2026,
+    "category": "kitchen",
+    "status": "Built",
+    "role": "Kitchen design & execution",
+    "summary": "A family kitchen in daily use, wrapped in white marble-look shutters with a dramatic blue-veined backsplash. Frosted glass wall units in slim bronze frames and a tall appliance wall with built-in ovens finish the run.",
+    "specs": [
+      {
+        "label": "Shutters",
+        "value": "White marble-look stone"
+      },
+      {
+        "label": "Backsplash",
+        "value": "Blue-veined stone, full height"
+      },
+      {
+        "label": "Glass",
+        "value": "Frosted, slim bronze frames"
+      },
+      {
+        "label": "Appliances",
+        "value": "Built-in ovens in a tall wall"
+      }
+    ],
+    "cover": "built-wide",
+    "images": [
+      {
+        "id": "built-wide",
+        "tag": "built",
+        "alt": "U-shaped marble kitchen with frosted glass uppers and a tall oven wall",
+        "src": "media/marble-kitchen/01-1280.webp",
+        "srcset": "media/marble-kitchen/01-640.webp 640w, media/marble-kitchen/01-1280.webp 1280w",
+        "w": 1280,
+        "h": 960,
+        "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAADQBACdASoYABIAPu1sq1EppaOiqAqpMB2JZwDA3AmTJAjknSVl1+8bJqxDs37EIAD+l5h7f18K7efmtY+rXGZ9fnLB+J4HlK1NVL7kj32lfi7tVWyQ0mfT3EItkZQvnR+oSpa41XvUTa1imhJ7I/pWtkZHSV28jvZhmjATzkZFKaAVS/0ftjKC7+S0s6TMAAA="
+      },
+      {
+        "id": "built-tall",
+        "tag": "built",
+        "alt": "Tall marble-look units with built-in ovens",
+        "src": "media/marble-kitchen/02-960.webp",
+        "srcset": "media/marble-kitchen/02-640.webp 640w, media/marble-kitchen/02-960.webp 960w",
+        "w": 960,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBQCdASoSABgAPu1mqk+ppSOiMBgIATAdiWUAtOgQ5SCNPhteR+IPATm1UKKYE3kaAAD+l3vi/eEFIWg08UJT1Cz58YDGJVv2CogKP7dNziD8DHiPftuvkVUGQG1IifN2OfCXGBKmmmZrcFvBJisbv6qmasoS8+vEC3H3qeNd9oG2u1wMz2oXD43OBs37VgAAAA=="
+      },
+      {
+        "id": "built-corner",
+        "tag": "built",
+        "alt": "Corner run with blue-veined backsplash under frosted glass cabinets",
+        "src": "media/marble-kitchen/03-960.webp",
+        "srcset": "media/marble-kitchen/03-640.webp 640w, media/marble-kitchen/03-960.webp 960w",
+        "w": 960,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADwBACdASoSABgAPu1mqk8ppaOiKA1RMB2JZwC45Ahd65x1KuxabFpfrxu4UWMRK3gA/dFRAzXeR3I9eNLMFgzVXirHTXUQroia8MniECR0MUSVxuoV2lEbsJvovEcUZy/RWeVi0JVh0LI/N76e/ErCfz9U7xKGjLUbf2N/wm4MafjUHqqw2vTMYAA="
+      },
+      {
+        "id": "built-glass",
+        "tag": "built",
+        "alt": "Frosted glass wall units in bronze frames above the stone backsplash",
+        "src": "media/marble-kitchen/04-960.webp",
+        "srcset": "media/marble-kitchen/04-640.webp 640w, media/marble-kitchen/04-960.webp 960w",
+        "w": 960,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADQBACdASoSABgAPu1ur1IppiQiqAgBMB2JZQCw7BGLKrGHT3slp9/yswMVzjS4oAD8i9k4diFxs20/+9Y5j84iTqf7ulqENlNS9iXm7FZv9nYsqGgo4fVTHbOlFoC4AiFYP/b2+HYCeW/Am7Dt6E495GiMWR9ioBOewnjiYDR3ElNu065DW0Gwu0W9E1ywDWO66lfOtqggAA=="
+      },
+      {
+        "id": "built-sink",
+        "tag": "built",
+        "alt": "Sink run under the window with handle-less marble-look drawers",
+        "src": "media/marble-kitchen/05-960.webp",
+        "srcset": "media/marble-kitchen/05-640.webp 640w, media/marble-kitchen/05-960.webp 960w",
+        "w": 960,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBACdASoSABgAPu1qqlEppaOiqAqpMB2JYwCsAAs37tOaQUN1f9cRhhgAAP658KkYqMo7wHjbJTRbZpRFn0iLAiaBdgwM6zMB4cy0uBCmcSxbWZh36e4ih/4Zz6lqoelQcTSHNloFrK6WaYSD/RNkpUij6I0OZvmwKeQpceJK2AAA"
+      }
+    ]
+  },
+  {
+    "slug": "mohali-bedrooms",
+    "title": "The Mohali Bedrooms",
+    "location": "Mohali, Punjab",
+    "year": 2024,
+    "category": "wardrobe",
+    "status": "Visualised",
+    "role": "Wardrobe & dresser design, PDI drawings",
+    "summary": "Five bedrooms in one house, each with a full-wall wardrobe and dresser in its own colourway — teal fluting, blush and champagne ribbed panels, and ivory two-tone fronts with bronze-glass centres — all tied together by slim brass pulls.",
+    "specs": [
+      {
+        "label": "Scope",
+        "value": "5 bedrooms — wardrobes & dressers"
+      },
+      {
+        "label": "Fronts",
+        "value": "Fluted & ribbed panels, two-tone lacquer"
+      },
+      {
+        "label": "Glass",
+        "value": "Bronze tinted, framed"
+      },
+      {
+        "label": "Hardware",
+        "value": "Brushed brass long pulls"
+      }
+    ],
+    "cover": "m2-a",
+    "rooms": [
+      {
+        "name": "Master Bedroom — Blush",
+        "note": "Floor-to-ceiling blush ribbed wardrobes with brass pulls, framing a recessed dresser with bronze-glass towers.",
+        "images": [
+          "m2-b",
+          "m2-a"
+        ],
+        "rank": 5
+      },
+      {
+        "name": "Master Bedroom — Champagne",
+        "note": "Champagne ribbed panels wrap the room; the dresser sits between glass towers beside a walnut door.",
+        "images": [
+          "m3-b",
+          "m3-a"
+        ],
+        "rank": 7
+      },
+      {
+        "name": "Bedroom — Teal",
+        "note": "A teal fluted wardrobe with full-height brass pulls, a floating dresser and hexagon floor.",
+        "images": [
+          "b7-a",
+          "b7-b"
+        ],
+        "rank": 8
+      },
+      {
+        "name": "Bedroom — Ivory & Bronze",
+        "note": "Two-tone ivory wardrobe with a bronze-glass centre bay and a matching dresser.",
+        "images": [
+          "b8-b",
+          "b8-a"
+        ],
+        "rank": 10
+      },
+      {
+        "name": "Bedroom — Stone",
+        "note": "Ivory two-tone fronts and bronze glass against a stone-textured wall, with a compact dresser.",
+        "images": [
+          "b6-a",
+          "b6-b"
+        ],
+        "rank": 11
+      }
+    ],
+    "images": [
+      {
+        "id": "m2-a",
+        "tag": "render",
+        "alt": "Blush ribbed wardrobe wall with brass pulls",
+        "src": "media/mohali-bedrooms/01-1034.webp",
+        "srcset": "media/mohali-bedrooms/01-640.webp 640w, media/mohali-bedrooms/01-1034.webp 1034w",
+        "w": 1034,
+        "h": 743,
+        "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASoYABEAPu1ep06ppKMiMBgMATAdiWUAtsgRSjpsoTIqtVVwajcYWk6QXaAA/rDcgJ2rhGbflAZH7YKHvbsE30gI8yNeKeTYA0S/yLKEmUH3+SDEQclGiv2QAFKG2sXjgAA="
+      },
+      {
+        "id": "m2-b",
+        "tag": "render",
+        "alt": "Dresser between bronze-glass towers in the blush master bedroom",
+        "src": "media/mohali-bedrooms/02-1148.webp",
+        "srcset": "media/mohali-bedrooms/02-640.webp 640w, media/mohali-bedrooms/02-1148.webp 1148w",
+        "w": 1148,
+        "h": 825,
+        "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwBACdASoYABEAPu1sq1EppaOiqAqpMB2JZQC/OBDe0U03TP/GcDFLX2vHBvDlKAAA/tZyLdM9Ap5eivuga+O3FsW3YjPTVZL/McsWj//ORhI1Cdukn7vsq8ZfeWghGmnle6VW0WwuxtLKSP3iT1BmhIAAAAAA"
+      },
+      {
+        "id": "m3-a",
+        "tag": "render",
+        "alt": "Champagne ribbed wardrobe wall",
+        "src": "media/mohali-bedrooms/03-1168.webp",
+        "srcset": "media/mohali-bedrooms/03-640.webp 640w, media/mohali-bedrooms/03-1168.webp 1168w",
+        "w": 1168,
+        "h": 834,
+        "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwBACdASoYABEAPu1qrVEppaQiqAqpMB2JZQC7L68A0KH3rFQyAhLkkvp6AACyYxC+S/HWQlYHu1nSDWkx8w5/CsrnScih2TFlvP56SYSCZ2+R9VCQ/CiO63uDn9a3zZgB0dPgAAA="
+      },
+      {
+        "id": "m3-b",
+        "tag": "render",
+        "alt": "Dresser with glass towers beside a walnut door",
+        "src": "media/mohali-bedrooms/04-1154.webp",
+        "srcset": "media/mohali-bedrooms/04-640.webp 640w, media/mohali-bedrooms/04-1154.webp 1154w",
+        "w": 1154,
+        "h": 815,
+        "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwBACdASoYABEAPu1qr1AppiSiqAqpMB2JZQCsAA9kDJt0XnwWLsuh5nOo0AD3cU1rR4Tw4kEyVoekN5TQeUZQ8+3ye7m5f+a97dZXYnjV9JFKbpw64uIz3pZfSjQv7vFcgnWpHh0WqmIjtsrrDP4kwWMyAAAA"
+      },
+      {
+        "id": "b7-a",
+        "tag": "render",
+        "alt": "Teal fluted wardrobe with floating dresser",
+        "src": "media/mohali-bedrooms/05-1266.webp",
+        "srcset": "media/mohali-bedrooms/05-640.webp 640w, media/mohali-bedrooms/05-1266.webp 1266w",
+        "w": 1266,
+        "h": 817,
+        "placeholder": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZQDE2B4XS+NAi+rA0PfQrwAA/vHgwdOCk3PhTBOETSsse26yM3VM9Jw9kIQejcpMSBLCwygOGGjs87UTRK4iPk5UplkcFP620EAArdS4I0piqEEgAA=="
+      },
+      {
+        "id": "b7-b",
+        "tag": "render",
+        "alt": "Teal fluted wardrobe beside a tall ivory unit",
+        "src": "media/mohali-bedrooms/06-1266.webp",
+        "srcset": "media/mohali-bedrooms/06-640.webp 640w, media/mohali-bedrooms/06-1266.webp 1266w",
+        "w": 1266,
+        "h": 814,
+        "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoYAA8ALrV2u12jqampiYC0SygGFAHpD3hO5ffmPHsjWAD+9SFS1Ol//VnUiLCb3hTcm8aCmkfVxSMe4oGqcHrCCWBlhVSlyU/as6yL6JdgJEi+FOpjWyQEixS6QS+AAAA="
+      },
+      {
+        "id": "b8-a",
+        "tag": "render",
+        "alt": "Ivory wardrobe with bronze-glass centre bay",
+        "src": "media/mohali-bedrooms/07-1225.webp",
+        "srcset": "media/mohali-bedrooms/07-640.webp 640w, media/mohali-bedrooms/07-1225.webp 1225w",
+        "w": 1225,
+        "h": 827,
+        "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCdMoMwtDXq+rdmepNbBgD+130JpCN6JcUOVqMIy2N9yJB9S2D7dZusyN+3KiNryAGae0dtK+Ep1jc03gU4khHKK2X42v8OHr5wAAA="
+      },
+      {
+        "id": "b8-b",
+        "tag": "render",
+        "alt": "Ivory wardrobe and dresser beside a walnut door",
+        "src": "media/mohali-bedrooms/08-1287.webp",
+        "srcset": "media/mohali-bedrooms/08-640.webp 640w, media/mohali-bedrooms/08-1280.webp 1280w, media/mohali-bedrooms/08-1287.webp 1287w",
+        "w": 1287,
+        "h": 821,
+        "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQBACdASoYAA8APu1iqU2ppaOiMAgBMB2JYwCdMoADS3oTm3J/lW78llljIgAA/ufs8J/b1UB66ezGHKuHIBZJAgc/Jdcngg8A0XHlbWONrK1OYSN2j4IvSnLuYwE9eD8AvM7s/fBFiFxC2oWgs8N4haP1xNAA"
+      },
+      {
+        "id": "b6-a",
+        "tag": "render",
+        "alt": "Two-tone ivory wardrobe with bronze glass and dresser",
+        "src": "media/mohali-bedrooms/09-1280.webp",
+        "srcset": "media/mohali-bedrooms/09-640.webp 640w, media/mohali-bedrooms/09-1280.webp 1280w",
+        "w": 1280,
+        "h": 762,
+        "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JZQCdDiAAHfhuLsl4Qkrm5AD97vjALjjw81pLd3N0KlUMG7oH0XIPHtdYWI1RxOBniWEdQsfAEkTKMf3Bkt3e6/iyY6Kbrx1TI7l/c3vplANfDikXIgJF5LMSTQDfjiEmy7kpMIXYhL+EkRYQAA=="
+      },
+      {
+        "id": "b6-b",
+        "tag": "render",
+        "alt": "Ivory wardrobe with bronze glass against a stone wall",
+        "src": "media/mohali-bedrooms/10-1372.webp",
+        "srcset": "media/mohali-bedrooms/10-640.webp 640w, media/mohali-bedrooms/10-1280.webp 1280w, media/mohali-bedrooms/10-1372.webp 1372w",
+        "w": 1372,
+        "h": 827,
+        "placeholder": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoYAA4APu1kq04ppaQiMAgBMB2JYwC06CIHvHeiK522TX2bcAD+54jAbjXkFZ0Qxna9rBNLtW8JH9RamhhqLjM8nfHrZS8LXyciAqkKm6RBa4CSKeQAAA=="
+      }
+    ]
+  },
+  {
+    "slug": "south-delhi-residence",
+    "title": "A South Delhi Residence",
+    "location": "New Delhi",
+    "year": 2023,
+    "category": "wardrobe",
+    "status": "Visualised",
+    "role": "Joinery design & 3D visualisation",
+    "summary": "Six rooms for one family home — two guest suites and four dressing rooms — each given its own material language, from smoked fluted glass and walnut to classical panelling, brass frames and arched ivory joinery.",
+    "specs": [
+      {
+        "label": "Scope",
+        "value": "2 guest suites, 4 dressing rooms"
+      },
+      {
+        "label": "Palette",
+        "value": "Ivory, walnut, oak, brass, smoked glass"
+      },
+      {
+        "label": "Signature",
+        "value": "Fluted islands, framed glass shutters"
+      }
+    ],
+    "cover": "gs2-a",
+    "rooms": [
+      {
+        "name": "Walnut Walk-in",
+        "note": "Smoked glass shutters with rope-wrapped pulls, a fluted island with a black glass top and an emerald bench.",
+        "images": [
+          "walk-a",
+          "walk-b",
+          "walk-c",
+          "walk-d"
+        ],
+        "rank": 1
+      },
+      {
+        "name": "Ivory Master Wardrobe",
+        "note": "Classical raised panels with mirror insets, gold-line detailing and a fluted island under a marble top.",
+        "images": [
+          "master-a",
+          "master-b",
+          "master-c",
+          "master-d"
+        ],
+        "rank": 2
+      },
+      {
+        "name": "Arched Dressing Room",
+        "note": "Arched ivory shutters with gold-line mouldings, framed glass display and a floating fluted dresser.",
+        "images": [
+          "arch-b",
+          "arch-a",
+          "arch-c"
+        ],
+        "rank": 3
+      },
+      {
+        "name": "Guest Suite II",
+        "note": "Brass-framed open wardrobe system, bronze-framed glass shutters and a brass floor inlay leading to an arched window.",
+        "images": [
+          "gs2-a",
+          "gs2-b",
+          "gs2-c",
+          "gs2-d"
+        ],
+        "rank": 4
+      },
+      {
+        "name": "Oak Dressing Room",
+        "note": "Ivory panelling with bronze glass shutters around a warm oak island and a window seat.",
+        "images": [
+          "oak-a",
+          "oak-b",
+          "oak-c",
+          "oak-d"
+        ],
+        "rank": 6
+      },
+      {
+        "name": "Guest Suite I",
+        "note": "Smoked fluted-glass wardrobe in a dark frame; floating vanity with a black stone top against travertine-tone walls.",
+        "images": [
+          "gs1-a",
+          "gs1-b"
+        ],
+        "rank": 9
+      }
+    ],
+    "images": [
+      {
+        "id": "gs1-a",
+        "tag": "render",
+        "alt": "Guest suite with smoked fluted-glass wardrobe and floating vanity",
+        "src": "media/south-delhi-residence/01-1317.webp",
+        "srcset": "media/south-delhi-residence/01-640.webp 640w, media/south-delhi-residence/01-1280.webp 1280w, media/south-delhi-residence/01-1317.webp 1317w",
+        "w": 1317,
+        "h": 821,
+        "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoYAA8APu1kq04ppaQiMAgBMB2JZQC7AB6QYINJ84eHlyEwAP7e5rLBBOfYhEA+uIe2nRQ8xhavJ3Mz8Hje9YLp6wm3/nxobF5NKg+gD1RJCbzjLx27hHrb79Yh4AAA"
+      },
+      {
+        "id": "gs1-b",
+        "tag": "render",
+        "alt": "Floating vanity with black stone top beside a fluted-glass wardrobe",
+        "src": "media/south-delhi-residence/02-1396.webp",
+        "srcset": "media/south-delhi-residence/02-640.webp 640w, media/south-delhi-residence/02-1280.webp 1280w, media/south-delhi-residence/02-1396.webp 1396w",
+        "w": 1396,
+        "h": 827,
+        "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JZQCdMoACwV7d1FXXrZWmAAD+gRvwTb/Hw8YVEH3+lWTh4m9mdreXI8vb81gZW+K4DnrOlUR+Ze6ZnFzhVdEAy0+IwluN2A1++QAA"
+      },
+      {
+        "id": "gs2-a",
+        "tag": "render",
+        "alt": "Guest suite with bronze-framed glass wardrobe and arched window",
+        "src": "media/south-delhi-residence/03-1444.webp",
+        "srcset": "media/south-delhi-residence/03-640.webp 640w, media/south-delhi-residence/03-1280.webp 1280w, media/south-delhi-residence/03-1444.webp 1444w",
+        "w": 1444,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JYwCsAB4Wv2sjaeX5wFOrbAD+I40XD1pC8+ls5RggUrfPfoFd2bPQxLMgQWu/5sHOvwCdXiaGuw03cmpVj5I2natyOuDB9xTH6wbJXViIw6y0SwgvwHYWw+/Jmu1A6Aer29GOKAAAAA=="
+      },
+      {
+        "id": "gs2-b",
+        "tag": "render",
+        "alt": "Brass-framed open wardrobe system with a floating dressing shelf",
+        "src": "media/south-delhi-residence/04-1444.webp",
+        "srcset": "media/south-delhi-residence/04-640.webp 640w, media/south-delhi-residence/04-1280.webp 1280w, media/south-delhi-residence/04-1444.webp 1444w",
+        "w": 1444,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACwAwCdASoYAA4APu1kqU2ppaQiMAgBMB2JZQC7AB6Q4S5owh0MwAD+05yAMPTXXGDVy0UKAoHQ8P90D/Mr6UOhCY95bATxmJJEYaHCGPWWxPtv1tL7+qDkYORSyt2ZcCeWuhiCctN7pElcGYWZbNRcy+AI9AAA"
+      },
+      {
+        "id": "gs2-c",
+        "tag": "render",
+        "alt": "Open wardrobe system with an upholstered chair",
+        "src": "media/south-delhi-residence/05-1424.webp",
+        "srcset": "media/south-delhi-residence/05-640.webp 640w, media/south-delhi-residence/05-1280.webp 1280w, media/south-delhi-residence/05-1424.webp 1424w",
+        "w": 1424,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADQAwCdASoYAA4APu1iqU2ppaOiMAgBMB2JZQCsABRn4ym44V6AgQAA+GCdvsxYnhXMU8GoOaQ+IdoKELLCd3jECGWvYcMuMSQ1/dOxAIrY9E0FB8n6Q67Jm51LGK+PcsTBvKywh14QkDI6m6MxYemojh3mP/iQSa4f3irIBAA="
+      },
+      {
+        "id": "gs2-d",
+        "tag": "render",
+        "alt": "Bronze-framed glass wardrobe beside a glass shower partition",
+        "src": "media/south-delhi-residence/06-1444.webp",
+        "srcset": "media/south-delhi-residence/06-640.webp 640w, media/south-delhi-residence/06-1280.webp 1280w, media/south-delhi-residence/06-1444.webp 1444w",
+        "w": 1444,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoYAA4APu1iqU2ppaQiMAgBMB2JYwCdABI01zdrCKW1lk4AAP4j7tFo8Sb6O3vDkXc/32IPrjSrgX2hFcFOBY7knZNwLDCrr9i1Ayk+tWcujy+mli2SWsnm9wlHAAAA"
+      },
+      {
+        "id": "walk-a",
+        "tag": "render",
+        "alt": "Walk-in wardrobe with fluted island, emerald bench and garden window",
+        "src": "media/south-delhi-residence/07-1376.webp",
+        "srcset": "media/south-delhi-residence/07-640.webp 640w, media/south-delhi-residence/07-1280.webp 1280w, media/south-delhi-residence/07-1376.webp 1376w",
+        "w": 1376,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBACdASoYAA8APu1iqU2ppaOiMAgBMB2JZQCdACHb3Sj3Nso8LvnS4XQA+FpzqLaeilMdlTYlMubzve4eT1DSsCNgi2Ru8+Mt313UuGiGkvE3i7J2LdxKmBXu/mijRiX7WDq6+f4Fb3AGW5w+lBevavI+Nn8g8GMKkb57gAA="
+      },
+      {
+        "id": "walk-b",
+        "tag": "render",
+        "alt": "Smoked glass wardrobes around a fluted island",
+        "src": "media/south-delhi-residence/08-1376.webp",
+        "srcset": "media/south-delhi-residence/08-640.webp 640w, media/south-delhi-residence/08-1280.webp 1280w, media/south-delhi-residence/08-1376.webp 1376w",
+        "w": 1376,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASoYAA8APu1iqU2ppaQiMAgBMB2JZQAAYY25q6gGyuJyqdXs5gAA/a2bnBbcgA3IeJYINUuoDwHW2qjUsXSCHX3PzixhLZWn7cFLz77ncU0smdfuOS/bLr7HglGdkEPwgavn/M8WZFIAAA=="
+      },
+      {
+        "id": "walk-c",
+        "tag": "render",
+        "alt": "Mirror wall with gold-line panels reflecting the wardrobe",
+        "src": "media/south-delhi-residence/09-1376.webp",
+        "srcset": "media/south-delhi-residence/09-640.webp 640w, media/south-delhi-residence/09-1280.webp 1280w, media/south-delhi-residence/09-1376.webp 1376w",
+        "w": 1376,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoYAA8APu1iqU2ppaOiMAgBMB2JQBOmUABM65YYsD2VQcdzrgAA/piU1Q4J06Go2GwKbw2j19PQr5Eq+vs+nOOFS7oYp09IIpdqlDeEKYQwh2Zvwu+G67TVk7cMs843buSu9FQXAe0gIIdMDcB3ZiVhSlPwaCg7kzts2TTceqgAAA=="
+      },
+      {
+        "id": "walk-d",
+        "tag": "render",
+        "alt": "Island with drawers and rope-wrapped wardrobe handles",
+        "src": "media/south-delhi-residence/10-1376.webp",
+        "srcset": "media/south-delhi-residence/10-640.webp 640w, media/south-delhi-residence/10-1280.webp 1280w, media/south-delhi-residence/10-1376.webp 1376w",
+        "w": 1376,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoYAA8APu1iqU2ppaQiMAgBMB2JYwCsABxuW8YV259Yd7imMADieusikxfaYba9Q31ViDXwIV9hgXNt0DQzV7LRlQ5MhAyH+SEA8/A6MfOBcbV8jkue//iec8MB5Fy9zuzkKhUec9DTVMdEDnClPhZIS5GxQAAA"
+      },
+      {
+        "id": "master-a",
+        "tag": "render",
+        "alt": "Ivory master wardrobe with mirror-inset panels and a central island",
+        "src": "media/south-delhi-residence/11-1352.webp",
+        "srcset": "media/south-delhi-residence/11-640.webp 640w, media/south-delhi-residence/11-1280.webp 1280w, media/south-delhi-residence/11-1352.webp 1352w",
+        "w": 1352,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoYAA8APu1iqU2ppaOiMAgBMB2JZQCdAB5+nMRDFXxe/n0k4AD+lv1kTkmA2L9kBU6F3O8vxBaf5030vOTIxgCUDcueWBlK7E8LPj2TrqgxGgYQN0sAgqnIaVwbL41X8Z5/KCfvbdr0lq+g5HbpHqEmE+Va4AAA"
+      },
+      {
+        "id": "master-b",
+        "tag": "render",
+        "alt": "Fluted island with marble top between panelled wardrobes",
+        "src": "media/south-delhi-residence/12-1352.webp",
+        "srcset": "media/south-delhi-residence/12-640.webp 640w, media/south-delhi-residence/12-1280.webp 1280w, media/south-delhi-residence/12-1352.webp 1352w",
+        "w": 1352,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAwCdASoYAA8APu1iqU2ppaQiMAgBMB2JZQCdAA1VoiQlm2J2GJsgAP5kAT2FqUkwxid6zIPepWbxi8QlmDY8VhJUVh+VvHa6joO+JvvxcjY7NMIWtIfxXTqrzHXkmTY6RcX+gXWWlHEFLFSj2ed8a+4SvGntKVldDZcyQJ/XRAAA"
+      },
+      {
+        "id": "master-c",
+        "tag": "render",
+        "alt": "Burgundy velvet chair and fluted island in the master wardrobe",
+        "src": "media/south-delhi-residence/13-1352.webp",
+        "srcset": "media/south-delhi-residence/13-640.webp 640w, media/south-delhi-residence/13-1280.webp 1280w, media/south-delhi-residence/13-1352.webp 1352w",
+        "w": 1352,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoYAA8APu1iqU2ppaOiMAgBMB2JZQCdABrbx6TAg3eebijgAP7FupZDWFElI4kVxO6yvO04u2KJZOFxTcabOn/faid/D0nwrN/Te/Vumf/Ux5dw4yW0d6voG3tOS752HhgtwJmSWSaWFfvEcl1fQ2udD4GZtmlH9cDV8lMVqgAAAA=="
+      },
+      {
+        "id": "master-d",
+        "tag": "render",
+        "alt": "Dressing desk and glass-front wardrobes in ivory",
+        "src": "media/south-delhi-residence/14-1352.webp",
+        "srcset": "media/south-delhi-residence/14-640.webp 640w, media/south-delhi-residence/14-1280.webp 1280w, media/south-delhi-residence/14-1352.webp 1352w",
+        "w": 1352,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwBACdASoYAA8APu1iqU2ppaOiMAgBMB2JZQCdMoAC/BZYzz0dRa+DvvZwAAD+l3fMpFAROdb+dxDXwyIky55wMSwXUenoXYxgZd6yeyS4Rsjtyo0ECVZZoNwPw4PYuVfWvPaLC2kmUo+um14V/p6pq0MfQSfpVnkAAA=="
+      },
+      {
+        "id": "oak-a",
+        "tag": "render",
+        "alt": "Dressing room with oak island and bronze glass shutters",
+        "src": "media/south-delhi-residence/15-1444.webp",
+        "srcset": "media/south-delhi-residence/15-640.webp 640w, media/south-delhi-residence/15-1280.webp 1280w, media/south-delhi-residence/15-1444.webp 1444w",
+        "w": 1444,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JYwCdMoAC+XBGNA+HDI9cAAD+m7DYU1yfI2+NtYBF00jXxro33SPRMr1w3PCQaMJHHc837eiJjvEd0G8YPID3xP07Z9MP5fC/51ydxwNbzuykDpHZDzHQZQM/aQAA"
+      },
+      {
+        "id": "oak-b",
+        "tag": "render",
+        "alt": "Oak island in front of a window seat with Roman blind",
+        "src": "media/south-delhi-residence/16-1428.webp",
+        "srcset": "media/south-delhi-residence/16-640.webp 640w, media/south-delhi-residence/16-1280.webp 1280w, media/south-delhi-residence/16-1428.webp 1428w",
+        "w": 1428,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADwAwCdASoYAA4APu1iqU2ppaOiMAgBMB2JQBOmUABffcsnWeRTi64YAP7gpudcgAGwqoCZMUjm/heAR3qPWfvXJuh8okDS0Jb4h1uNBFTmiII3TMtGrtCG7ti7/NQLdrW4c0ag+Jcd2dXcpu9y1LZdCDBjjXnVt+JVUKqXfYyN08tRxxEeI3zTt9AAAA=="
+      },
+      {
+        "id": "oak-c",
+        "tag": "render",
+        "alt": "Ivory tall units and an oak island",
+        "src": "media/south-delhi-residence/17-1444.webp",
+        "srcset": "media/south-delhi-residence/17-640.webp 640w, media/south-delhi-residence/17-1280.webp 1280w, media/south-delhi-residence/17-1444.webp 1444w",
+        "w": 1444,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBACdASoYAA4APu1iqU2ppaQiMAgBMB2JYwC7AB4as+n+OsvPiG1orIAA/teFxjmFfU/b6tuXLLIIqsNTL2nNNhdhtVCa/nUg5Rhblv8960Xgf5ESXus30xfRjziqt8+9LgRAT9yn1ZIX5BMF57Jl86tO/wAkf1g2T0nnEAA="
+      },
+      {
+        "id": "oak-d",
+        "tag": "render",
+        "alt": "Dressing table and bronze glass display beside the oak island",
+        "src": "media/south-delhi-residence/18-1444.webp",
+        "srcset": "media/south-delhi-residence/18-640.webp 640w, media/south-delhi-residence/18-1280.webp 1280w, media/south-delhi-residence/18-1444.webp 1444w",
+        "w": 1444,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JYwCdACL4j0Q0oXtpNQgSKAD+4hmUF+fU/PQlmDwqyGFp9cKd9JMSM8uwc3qJxcowFmIPsN8gAO2Xjv9Xy8JFpGprfXx4yRK0sxRlEcd89dFdW5vKS68MBdxQsoOWJy+KQ4dspPCir8TTlmNGQkg6pFeB6VI9YAA="
+      },
+      {
+        "id": "arch-a",
+        "tag": "render",
+        "alt": "Dressing room with arched ivory shutters and a floating fluted dresser",
+        "src": "media/south-delhi-residence/19-1376.webp",
+        "srcset": "media/south-delhi-residence/19-640.webp 640w, media/south-delhi-residence/19-1280.webp 1280w, media/south-delhi-residence/19-1376.webp 1376w",
+        "w": 1376,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBACdASoYAA8APu1iqU2ppaOiMAgBMB2JZQCw7B4Y/q7b47VSscik7AAA/tgIBZNKTEkFn6sLiNjGtIAOQxZu55BqvvXDkrWgTmWSgVNDju1p7ArtuvJR9ZKIRwL9r2yuMkXcn7FRQF6RL7Bv6lbmjKuht5/jL1lNUQAA"
+      },
+      {
+        "id": "arch-b",
+        "tag": "render",
+        "alt": "Floating dresser with gilded chair and glass display cabinets",
+        "src": "media/south-delhi-residence/20-1247.webp",
+        "srcset": "media/south-delhi-residence/20-640.webp 640w, media/south-delhi-residence/20-1247.webp 1247w",
+        "w": 1247,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCdACPcJ9EkVS1lTqJIiAAA/uhUuNf7i7XxfC97HRhhQnq1TFaQAoJLXCR00v3Eb6S+aSmeetcrAUvxBH0ui+t2WXU+CNSHX89nqpfJJDCq/PmxJCP2JCzazg2YE8CCApOAAAA="
+      },
+      {
+        "id": "arch-c",
+        "tag": "render",
+        "alt": "Arched wardrobes framing bronze-edged glass shutters",
+        "src": "media/south-delhi-residence/21-986.webp",
+        "srcset": "media/south-delhi-residence/21-640.webp 640w, media/south-delhi-residence/21-986.webp 986w",
+        "w": 986,
+        "h": 835,
+        "placeholder": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBQCdASoYABQAPu1sqlEppaOiqAqpMB2JYwC7AA9m4bCnydL9C8j6BcNVug3ZamaWAAD+a4deIRiDfKpJZpawEaAvOxRkhNsuRV+9zfBj2Oglqo1bAyHncOhCn6GHtgBEBenzMH/jTD7fmj00uVxrW4RArmWJbirSQ3/DIm24MQ9R6B6rFhI+83Lx+uA5JUAAAA=="
+      }
+    ]
+  },
+  {
+    "slug": "fluted-island-kitchen",
+    "title": "The Fluted-Island Kitchen",
+    "location": "Hyderabad, Telangana",
+    "year": 2025,
+    "category": "kitchen",
+    "status": "Built",
+    "role": "Design, specification & execution",
+    "summary": "A U-shaped kitchen around a fluted-glass island. Two-tone stone shutters — pale Bianco Lasa below, Cloudy Olive above — are tied together by light-bronze lines that carry continuous light under the counters and skirting.",
+    "specs": [
+      {
+        "label": "Footprint",
+        "value": "4.8 × 5.1 m"
+      },
+      {
+        "label": "Shutters",
+        "value": "6 mm stone — Bianco Lasa base, Cloudy Olive tall"
+      },
+      {
+        "label": "Glass",
+        "value": "Clear fluted (inverted), Neon 22 profile"
+      },
+      {
+        "label": "Profiles & handles",
+        "value": "Light bronze, C&J and Titus"
+      },
+      {
+        "label": "Lighting",
+        "value": "In-cabinet, dado, under-counter & skirting"
+      }
+    ],
+    "cover": "built-glass",
+    "compare": {
+      "before": "render-u",
+      "after": "built-island"
+    },
+    "images": [
+      {
+        "id": "built-glass",
+        "tag": "built",
+        "alt": "Lit glass wall cabinets above a pale stone counter with bronze lines",
+        "src": "media/fluted-island-kitchen/01-1600.webp",
+        "srcset": "media/fluted-island-kitchen/01-640.webp 640w, media/fluted-island-kitchen/01-1280.webp 1280w, media/fluted-island-kitchen/01-1600.webp 1600w",
+        "w": 1600,
+        "h": 918,
+        "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoYAA4APu1iqU2ppaQiMAgBMB2JQBOgBH35tpn0bR2kW6RAAAD+cwKjIxl/XYoyE2CJI240AeH0UZcz1MiGpIO29Sehp9KBCVmUC6fY7a8HramfAA32hEvauryrK3wmq0q5mgTkfpecAVOqXDvcFZwTi0xhwBhGAgAAAA=="
+      },
+      {
+        "id": "built-island",
+        "tag": "built",
+        "alt": "Wide view of the U-shaped kitchen and fluted-glass island",
+        "src": "media/fluted-island-kitchen/02-1280.webp",
+        "srcset": "media/fluted-island-kitchen/02-640.webp 640w, media/fluted-island-kitchen/02-1280.webp 1280w",
+        "w": 1280,
+        "h": 575,
+        "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBACdASoYAAsAPu1kqU2ppaOiMAgBMB2JYwCdABjInG4wlev+jX0AwHAA3bsJihXo1M312Qghscd875q19M4Di3rIOdjTx3dMYcSihJqwqS04K6RPAKH1LpA1Uum56cXQ414cPGQetgD4YIzrOy5geagmjYrjlpE2NYIAAAA="
+      },
+      {
+        "id": "built-wide",
+        "tag": "built",
+        "alt": "Island and tall units with continuous plinth lighting",
+        "src": "media/fluted-island-kitchen/03-1280.webp",
+        "srcset": "media/fluted-island-kitchen/03-640.webp 640w, media/fluted-island-kitchen/03-1280.webp 1280w",
+        "w": 1280,
+        "h": 575,
+        "placeholder": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQBACdASoYAAsAPu1iqU2ppaOiMAgBMB2JQBOmUABWgn7RYLxv8vaFwHQAAP6JpzCYLtg1rPXIQphA40ChXl0kZs1oyk3SzDmkLATkH/HUR7rOj2cFugDDh11YJ8qOvx7dmc8tYD9kchrqqmxZ7OR2XBuIAAAA"
+      },
+      {
+        "id": "built-portrait",
+        "tag": "built",
+        "alt": "Island with recessed handle lines under a slatted ceiling",
+        "src": "media/fluted-island-kitchen/04-575.webp",
+        "srcset": "media/fluted-island-kitchen/04-575.webp 575w",
+        "w": 575,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASoLABgAPu1kq04ppaQiMAgBMB2JYwCdMoADTETeWZ7MtMueJAAA/g60TsOHIgqRqZXe8z+/MYzbjwhD5TnnO1GpurNprBxhd+eIj6Dr89obOBdJoo8yGQcPME47jwTmtz8TjdY759O1F/DAAAA="
+      },
+      {
+        "id": "built-hob",
+        "tag": "built",
+        "alt": "Hob run with lit glass shelving and bronze edge lines",
+        "src": "media/fluted-island-kitchen/05-575.webp",
+        "srcset": "media/fluted-island-kitchen/05-575.webp 575w",
+        "w": 575,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABwBACdASoLABgAPu1iqU2ppaQiMAgBMB2JQBOmUABWj20YEstX6b0MbftcAAD9s3jptW/PeEaTLHHLbRWzlQjC6Pxf6T8aFB5jqfIkT/WPB65kVhhE5K2sOZyBqrGnvPczijRDGS84nPGONyNgvXMo9GSjCiUKU0nCrsUs/fZ8bIa2Bhh2npdmAAA="
+      },
+      {
+        "id": "built-tall",
+        "tag": "built",
+        "alt": "Tall unit wall with integrated refrigerator and glass display",
+        "src": "media/fluted-island-kitchen/06-575.webp",
+        "srcset": "media/fluted-island-kitchen/06-575.webp 575w",
+        "w": 575,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwBACdASoLABgAPu1kqU4ppaOiMAgBMB2JYgCdMoR4GBYu5rorvAPHjmR9gAD51aGfJUnUc+vw06JF+9Rot821s0yxApnOUvbu81ni35jfi02SMFIXwT8ijaegOwePu4UOJzoMshuJVMR7RUGT4FG9txCQAA=="
+      },
+      {
+        "id": "render-u",
+        "tag": "render",
+        "alt": "Render of the U-shaped kitchen with fluted-glass island",
+        "src": "media/fluted-island-kitchen/07-1027.webp",
+        "srcset": "media/fluted-island-kitchen/07-640.webp 640w, media/fluted-island-kitchen/07-1027.webp 1027w",
+        "w": 1027,
+        "h": 632,
+        "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoYAA8APu1iqU2ppaQiMAgBMB2JZQCdAB6XKLIqun3NZrPqAEAA/PaK49uqvlDNBXQdaxJF0w9QFr38xYjnioxH0tpzTy5beGVW3oPHlrNDhJAYUo6psYYQ9kFfcC9KIZNA343m/Rm/oazObStfMEQHKFHLiH3eNFm/ZeL9DoAAAA=="
+      },
+      {
+        "id": "render-window",
+        "tag": "render",
+        "alt": "Render of the hob wall and breakfast seating",
+        "src": "media/fluted-island-kitchen/08-1128.webp",
+        "srcset": "media/fluted-island-kitchen/08-640.webp 640w, media/fluted-island-kitchen/08-1128.webp 1128w",
+        "w": 1128,
+        "h": 720,
+        "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAwBACdASoYAA8APu1iqU2ppaOiMAgBMB2JYwCdACKT7N+cQbfPLzu05wAA/eObt6ybdDm4HX9tdxd4GUQ+tpqidw29/tQSithZNG8W4mGCRW9KV8b3907tTnbnQ90SG/x54aQ6T4SmbSWF5WFzBOtoxgEl2C453x2wCL6ED56QAA=="
+      },
+      {
+        "id": "render-tall",
+        "tag": "render",
+        "alt": "Render of tall units with fluted-glass uppers",
+        "src": "media/fluted-island-kitchen/09-1040.webp",
+        "srcset": "media/fluted-island-kitchen/09-640.webp 640w, media/fluted-island-kitchen/09-1040.webp 1040w",
+        "w": 1040,
+        "h": 644,
+        "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABQBACdASoYAA8APu1iqU2ppaOiMAgBMB2JZQCdAdwA+YNE4s3+a03W8qgoAPji6VsXSG4j1XH10au+yL1AJBd+LUGaqSIX2SBWZ1T6Y0OaihVzpxXiMXx2VUtkIeP/428zlvpCm8jf+P2JwufZdVMO6ld5KxatkYVBM64kxPYf4yE4AAA="
+      },
+      {
+        "id": "plan",
+        "tag": "drawing",
+        "alt": "Kitchen plan with island and dimensions",
+        "src": "media/fluted-island-kitchen/10-1920.webp",
+        "srcset": "media/fluted-island-kitchen/10-640.webp 640w, media/fluted-island-kitchen/10-1280.webp 1280w, media/fluted-island-kitchen/10-1920.webp 1920w",
+        "w": 2401,
+        "h": 2586,
+        "placeholder": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAwCdASoWABgAPu1qrlCppiQiqAqpMB2JaQAAPgWu0skGgAD+8JaOvANmQyAGEWKSFTWLoym9JKeSr9P+GOSNVDmTcmgA6pc7AAAA"
+      },
+      {
+        "id": "material-stone",
+        "tag": "detail",
+        "alt": "Cloudy Olive stone shutter sample",
+        "src": "media/fluted-island-kitchen/11-701.webp",
+        "srcset": "media/fluted-island-kitchen/11-640.webp 640w, media/fluted-island-kitchen/11-701.webp 701w",
+        "w": 701,
+        "h": 467,
+        "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAwCdASoYABAAPu1mq04ppaQiMAgBMB2JZwAAex3U8AAAyZ8/YD+5YwRpTvUUk09tN40mGIxLfUou5C5TZ3QMAAA="
+      }
+    ]
+  },
+  {
+    "slug": "bronze-line-kitchen",
+    "title": "The Bronze-Line Kitchen",
+    "location": "Gurugram, Haryana",
+    "year": 2024,
+    "category": "kitchen",
+    "status": "Built",
+    "role": "Design & execution",
+    "summary": "An apartment kitchen planned around an L-run, a tall appliance wall and a breakfast counter — warm brown stone-finish shutters, white stone counters and light-bronze glass profiles, with continuous under-cabinet light.",
+    "specs": [
+      {
+        "label": "Footprint",
+        "value": "6.0 × 5.4 m"
+      },
+      {
+        "label": "Shutters",
+        "value": "6 mm slimstone, Neo Brown"
+      },
+      {
+        "label": "Glass",
+        "value": "Brown tinted, light-bronze Neon 22 profile"
+      },
+      {
+        "label": "Counter & splash",
+        "value": "White stone (Bianco Lasa)"
+      },
+      {
+        "label": "Breakfast counter",
+        "value": "860 mm high"
+      }
+    ],
+    "cover": "built-l",
+    "images": [
+      {
+        "id": "built-l",
+        "tag": "built",
+        "alt": "L-shaped kitchen with brown stone shutters and lit white backsplash",
+        "src": "media/bronze-line-kitchen/01-691.webp",
+        "srcset": "media/bronze-line-kitchen/01-640.webp 640w, media/bronze-line-kitchen/01-691.webp 691w",
+        "w": 691,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoNABgAPu1iqk2ppaQiMAgBMB2JYwCsACGVW/aHO2Y8yzVAAP48LTNaX89Zotr8Bbwe5GUOjHsj1t49QG073yHwsh1CHFaveRepAdBEqTk1n4Pwkbfc1Xuo3qYT0cnHmAVhW1K/CX4AAA=="
+      },
+      {
+        "id": "built-corner",
+        "tag": "built",
+        "alt": "Kitchen corner with breakfast counter in the foreground",
+        "src": "media/bronze-line-kitchen/02-691.webp",
+        "srcset": "media/bronze-line-kitchen/02-640.webp 640w, media/bronze-line-kitchen/02-691.webp 691w",
+        "w": 691,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBACdASoNABgAPu1iqU2ppaOiMAgBMB2JQBOgAxXjKExWqMIolSb7EAAAyUnBTPQU04MwUkj3fdXZO9kLIbhJH6y45eqyUp4bdqsO/xdc5qbMcHxZutPiYek0OtNyEfaTWI3H4bOgDsfNBsymEpepsDR76lT3O2S3iYAA"
+      },
+      {
+        "id": "built-tall",
+        "tag": "built",
+        "alt": "Tall appliance wall with walnut and tinted glass",
+        "src": "media/bronze-line-kitchen/03-749.webp",
+        "srcset": "media/bronze-line-kitchen/03-640.webp 640w, media/bronze-line-kitchen/03-749.webp 749w",
+        "w": 749,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAwCdASoOABgAPu1iqU2ppaOiMAgBMB2JYwCdACGoCg+i/VxVwAD8eMNf3v8z0vRPb19Hy1xMuf2JQM8dhSMmY5prc6gMmDqHVfK5hugk8NQn/epSpQ2wWO0MDQGDafQP6v3SSUnSDE1p8ihYAA=="
+      },
+      {
+        "id": "plan",
+        "tag": "drawing",
+        "alt": "Kitchen plan with dimensions and elevation markers",
+        "src": "media/bronze-line-kitchen/04-1920.webp",
+        "srcset": "media/bronze-line-kitchen/04-640.webp 640w, media/bronze-line-kitchen/04-1280.webp 1280w, media/bronze-line-kitchen/04-1920.webp 1920w",
+        "w": 2401,
+        "h": 2167,
+        "placeholder": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAwCdASoYABYAPu1wsVKppiSiqAgBMB2JaQAAPPSDm+FAAP7wpqOBxxK+Y30JUquPSCHs+bKlLn0/oVhjmOAA"
+      }
+    ]
+  },
+  {
+    "slug": "site-journal",
+    "title": "On site now",
+    "location": "Delhi NCR",
+    "year": 2026,
+    "ongoing": true,
+    "category": "wardrobe",
+    "status": "In progress",
+    "role": "Design & site supervision",
+    "summary": "A bedroom suite and walk-in wardrobe being built right now — from the approved render to bronze-framed fluted glass, a stone floor inlay and the last brass hardware.",
+    "specs": [],
+    "cover": "render-bedroom",
+    "spreads": [
+      {
+        "label": "The approved render",
+        "bg": "render-bedroom",
+        "prints": [
+          {
+            "id": "wardrobe-wrapped",
+            "x": 63,
+            "y": 44,
+            "w": 24,
+            "rotate": 4,
+            "caption": "on site, still wrapped"
+          }
+        ],
+        "notes": [
+          {
+            "x": 6,
+            "y": 8,
+            "w": 34,
+            "title": "The plan",
+            "body": "Fluted glass, brass edges, a dresser in the corner.",
+            "style": "card",
+            "rotate": -2
+          }
+        ]
+      },
+      {
+        "label": "Walk-in wardrobe",
+        "bg": "walkin-a",
+        "imagePosition": "50% 45%",
+        "prints": [
+          {
+            "id": "walkin-c",
+            "x": 8,
+            "y": 40,
+            "w": 21,
+            "rotate": -5,
+            "caption": "bronze frames"
+          },
+          {
+            "id": "open-unit",
+            "x": 70,
+            "y": 14,
+            "w": 20,
+            "rotate": 4,
+            "tape": true,
+            "caption": "oak + fluted glass"
+          }
+        ],
+        "notes": [
+          {
+            "x": 7,
+            "y": 8,
+            "w": 38,
+            "title": "Lights on",
+            "body": "First evening with the wardrobe lit.",
+            "style": "ink"
+          }
+        ]
+      },
+      {
+        "label": "Living-room wall",
+        "bg": "tv-wall",
+        "prints": [
+          {
+            "id": "brass-knob",
+            "x": 66,
+            "y": 30,
+            "w": 22,
+            "rotate": 5,
+            "caption": "ribbed brass"
+          }
+        ],
+        "notes": [
+          {
+            "x": 6,
+            "y": 62,
+            "w": 36,
+            "title": "Black glass",
+            "body": "Walnut fluting either side of the TV wall.",
+            "style": "card",
+            "rotate": 2
+          }
+        ]
+      },
+      {
+        "label": "Floor and ceiling",
+        "bg": "floor-inlay",
+        "imagePosition": "50% 60%",
+        "prints": [
+          {
+            "id": "star-ceiling",
+            "x": 64,
+            "y": 12,
+            "w": 22,
+            "rotate": -4,
+            "tape": true,
+            "caption": "star ceiling test"
+          },
+          {
+            "id": "walkin-b",
+            "x": 10,
+            "y": 46,
+            "w": 20,
+            "rotate": 3,
+            "caption": "corner shelving"
+          }
+        ],
+        "notes": [
+          {
+            "x": 34,
+            "y": 70,
+            "w": 30,
+            "title": "Stone inlay",
+            "body": "Going down piece by piece.",
+            "style": "ink",
+            "rotate": -1
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": "render-bedroom",
+        "tag": "render",
+        "alt": "Approved render: bedroom with fluted-glass wardrobe, dresser and round bed",
+        "src": "media/site-journal/01-1420.webp",
+        "srcset": "media/site-journal/01-640.webp 640w, media/site-journal/01-1280.webp 1280w, media/site-journal/01-1420.webp 1420w",
+        "w": 1420,
+        "h": 827,
+        "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JYwCdAB6yVP0xQPcQXqjTeI49vgAA/snZo2ztyoaOYpJHhbVCyeFVqs/itnj2KcR834JrPWisVt/FkZR3NcLxJGZrBMw8+HhePxorvvPEIAjfQ29arbiWqB2y0yrDofBmRefoCY+wUfiS6AgFTJ5AAAA="
+      },
+      {
+        "id": "wardrobe-wrapped",
+        "tag": "built",
+        "alt": "Glass wardrobe and dresser being fitted, protective film still on",
+        "src": "media/site-journal/02-1280.webp",
+        "srcset": "media/site-journal/02-640.webp 640w, media/site-journal/02-1280.webp 1280w",
+        "w": 1280,
+        "h": 960,
+        "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQBACdASoYABIAPu1urlKppiQiqAgBMB2JZwAAFSrftCBB6UwFHxA1DA03IYAA/Nj2mar6NZfmTzffqSKds6k7576PghUzKM47w7o8Rz0y+x2MosthHTyxQA3572O79d+2BdjoyykaUK/E4YsNzR5mmkr5d5sPE6AAAA=="
+      },
+      {
+        "id": "walkin-a",
+        "tag": "built",
+        "alt": "Walk-in wardrobe with bronze-framed fluted glass, lights on",
+        "src": "media/site-journal/03-960.webp",
+        "srcset": "media/site-journal/03-640.webp 640w, media/site-journal/03-960.webp 960w",
+        "w": 960,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADwBACdASoSABgAPu1oqVAppaOiqA1RMB2JZQC7AAgazRv6KUAULzaBm9tsYSN8pkAA8AHxvSNt8YFObEFG+PwUip4w9XK0VBaUplq9M51HUDADmdDeggumD7NjieFa3sjr1DQhtn0i3kMu3hY8rY92UazaUQk0dvr3e0y18Vt6STzz7G+hPGuJbkNYVYIgi2LUgAAA"
+      },
+      {
+        "id": "walkin-b",
+        "tag": "built",
+        "alt": "Corner of the walk-in wardrobe with lit shelving",
+        "src": "media/site-journal/04-960.webp",
+        "srcset": "media/site-journal/04-640.webp 640w, media/site-journal/04-960.webp 960w",
+        "w": 960,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwAwCdASoSABgAPu1qq08ppiOwMBgIAgAdiWMAtsgNyUIpYXpY51lwAK4QgTAxWss0Z5CVp6EiO4qPaFggX6EhFqYbEJc4zpR5ftePv4YDtVXAlB83pu7fCiPB33NonoHW5zIbEF855oiLekYcFntbRbVm1rpGAlUhTGJAAAA="
+      },
+      {
+        "id": "walkin-c",
+        "tag": "built",
+        "alt": "Fluted-glass wardrobe doors in dark frames",
+        "src": "media/site-journal/05-960.webp",
+        "srcset": "media/site-journal/05-640.webp 640w, media/site-journal/05-960.webp 960w",
+        "w": 960,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQBACdASoSABgAPu1kq1AppSOisBgIATAdiWUAwoAMV4HfRUuEhMNO0MHjcYAA/gZqUf+MnAizj50dkTVtfXZO9xf+f01hRQuj35j9CFPNQZk0UnSkUewNu9KPP5w63H8Dk+syvKyuxCt/CCjNMb04Lv7p3owSP2gAAA=="
+      },
+      {
+        "id": "open-unit",
+        "tag": "built",
+        "alt": "Open wardrobe unit with oak shelves and fluted-glass doors",
+        "src": "media/site-journal/06-960.webp",
+        "srcset": "media/site-journal/06-640.webp 640w, media/site-journal/06-960.webp 960w",
+        "w": 960,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBQCdASoSABgAPu1oqk+ppiOiMBgIATAdiWMAnTLPNcAfo8tZft/ekakT6FTQd78XlYAA8Mvy7jjJ10ArwOxUxWKumsnrS3qaLJ18rLmu1aBMwMI4Bh0OvwA+Fz90wq3KrM/xjkNsUAQUSzFoaRvrAuCpF2pn4o11KsEFdbdqemGMaZYBU2kAAAA="
+      },
+      {
+        "id": "tv-wall",
+        "tag": "built",
+        "alt": "Living-room feature wall of black glass and walnut fluting, mid-installation",
+        "src": "media/site-journal/07-1280.webp",
+        "srcset": "media/site-journal/07-640.webp 640w, media/site-journal/07-1280.webp 1280w",
+        "w": 1280,
+        "h": 595,
+        "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoYAAsAPu1kqk4ppaQiMAgBMB2JZQC2yBtkIlVT9+rZGUGAAP3Vmy1AVifzBxLRFAUur2it7BCqzoMVYK+e3ADCcovF9KP6+XuuhuN+lMtzlzwZvfzJQYYJ4toJ+9lEDHhLAAAA"
+      },
+      {
+        "id": "brass-knob",
+        "tag": "detail",
+        "alt": "Ribbed brass knob checked against the stone",
+        "src": "media/site-journal/08-720.webp",
+        "srcset": "media/site-journal/08-640.webp 640w, media/site-journal/08-720.webp 720w",
+        "w": 720,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoNABgAPu1iqU2ppaOiMAgBMB2JYwAAW+K0lfbzlILvHQ7AAP1QoQdsYPTSkscUC6hLxVbqj0YD0sYxYwUhGBt/redw1IJMOa/WCAWDxKJZHcv4mDJ7/JZFXP8AM2cZl2Zu1XOkTEpaVvgpYliNyc9glj4IYykxZyL2uHmp04NMAAAA"
+      },
+      {
+        "id": "star-ceiling",
+        "tag": "built",
+        "alt": "Star-light ceiling being tested",
+        "src": "media/site-journal/09-960.webp",
+        "srcset": "media/site-journal/09-640.webp 640w, media/site-journal/09-960.webp 960w",
+        "w": 960,
+        "h": 1280,
+        "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABwBQCdASoSABgAPulcp02pJKOiN/VYASAdCWoAnTLQwagqARWzyH7aBEH6np3uuOXsAuAAAP66r7GKixH39Zv2EdoStzgy7aP3cL5qC4D3tEVJ4f1zpMzIQ4e1Mzs+vZo2vmja7NBkoPphlYwUL88qIpShrrExq+OjwjvU3lpSnItZBoet8eiRAAA="
+      },
+      {
+        "id": "floor-inlay",
+        "tag": "built",
+        "alt": "Stone floor inlay being laid",
+        "src": "media/site-journal/10-720.webp",
+        "srcset": "media/site-journal/10-640.webp 640w, media/site-journal/10-720.webp 720w",
+        "w": 720,
+        "h": 896,
+        "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQBACdASoTABgAPu1wsFIppiSiqAgBMB2JZwDE2BGQnY1wOmKILY0sU0TLcwAA/kD/KrsQFTQ41GzZ+tX3YaNcKndllrTwbBbbIHzCpIUi2Mg4o/DQYyezombVNvKhF70C3LYFViQt/xLMWZh+VgAA"
+      }
+    ]
+  }
+]
